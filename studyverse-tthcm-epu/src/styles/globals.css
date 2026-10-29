@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary: #FAFAFA;
+  --text-primary: #09090B;
+}
+html.dark {
+  --bg-primary: #09090B;
+  --text-primary: #FAFAFA;
+}
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}

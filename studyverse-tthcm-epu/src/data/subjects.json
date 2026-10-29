@@ -1,0 +1,61 @@
+{
+  "id": "tthcm-epu",
+  "code": "0101003505",
+  "name": "Tư tưởng Hồ Chí Minh",
+  "institution": "Trường Đại học Điện lực (EPU) — Khoa Lý luận Chính trị và Pháp luật",
+  "description": "Ngân hàng 301 câu hỏi trắc nghiệm thi hết học phần môn Tư tưởng Hồ Chí Minh (Mã học phần: 0101003505), trích xuất nguyên bản từ tài liệu nguồn với đáp án chuẩn và hệ thống giải thích học thuật 5 phần.",
+  "totalQuestions": 301,
+  "verifiedCount": 300,
+  "unverifiedCount": 1,
+  "chapters": [
+    {
+      "id": "ch1",
+      "code": "Chương I",
+      "title": "Chương I: Khái niệm, đối tượng, phương pháp nghiên cứu và ý nghĩa học tập Tư tưởng Hồ Chí Minh",
+      "shortTitle": "Chương I: Khái niệm & Phương pháp luận",
+      "topicSummary": "Khái niệm Tư tưởng Hồ Chí Minh qua các kỳ Đại hội Đảng (VI, VII, IX, XI), đối tượng nghiên cứu, phương pháp luận và giá trị cốt lõi (Độc lập dân tộc gắn liền với CNXH)."
+    },
+    {
+      "id": "ch2",
+      "code": "Chương II",
+      "title": "Chương II: Cơ sở, quá trình hình thành và phát triển Tư tưởng Hồ Chí Minh",
+      "shortTitle": "Chương II: Cơ sở & Quá trình hình thành",
+      "topicSummary": "Cơ sở thực tiễn (Việt Nam & thế giới cuối TK XIX - đầu TK XX), cơ sở lý luận (Truyền thống dân tộc, Tinh hoa văn hóa nhân loại, Chủ nghĩa Mác - Lênin), nhân tố chủ quan và 5 thời kỳ hình thành, phát triển (trước 1911, 1911-1920, 1921-1930, 1930-1941, 1941-1969)."
+    },
+    {
+      "id": "ch3",
+      "code": "Chương III",
+      "title": "Chương III: Tư tưởng Hồ Chí Minh về Độc lập dân tộc và Chủ nghĩa xã hội",
+      "shortTitle": "Chương III: Độc lập dân tộc & CNXH",
+      "topicSummary": "Vấn đề độc lập dân tộc (quyền thiêng liêng bất khả xâm phạm), cách mạng giải phóng dân tộc (con đường cách mạng vô sản, Đảng lãnh đạo, đại đoàn kết toàn dân, chủ động sáng tạo, bạo lực cách mạng) và thời kỳ quá độ lên CNXH ở Việt Nam."
+    },
+    {
+      "id": "ch4",
+      "code": "Chương IV",
+      "title": "Chương IV: Tư tưởng Hồ Chí Minh về Đảng Cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân, vì nhân dân",
+      "shortTitle": "Chương IV: Đảng CSVN & Nhà nước",
+      "topicSummary": "Quy luật ra đời của Đảng CSVN (Chủ nghĩa Mác - Lênin + Phong trào công nhân + Phong trào yêu nước), nguyên tắc xây dựng Đảng, và bản chất Nhà nước dân chủ nhân dân (của dân, do dân, vì dân; kiểm soát quyền lực, phòng chống giặc nội xâm: tham ô, lãng phí, quan liêu)."
+    },
+    {
+      "id": "ch5",
+      "code": "Chương V",
+      "title": "Chương V: Tư tưởng Hồ Chí Minh về Đại đoàn kết toàn dân tộc và Đoàn kết quốc tế",
+      "shortTitle": "Chương V: Đại đoàn kết dân tộc & Quốc tế",
+      "topicSummary": "Vai trò chiến lược của đại đoàn kết dân tộc (“Đoàn kết, đoàn kết, đại đoàn kết / Thành công, thành công, đại thành công”), nền tảng liên minh công - nông - trí thức, hình thức Mặt trận dân tộc thống nhất và nguyên tắc đoàn kết quốc tế (tự lực cánh sinh là chính, có lý có tình)."
+    },
+    {
+      "id": "ch6",
+      "code": "Chương VI",
+      "title": "Chương VI: Tư tưởng Hồ Chí Minh về Văn hóa, Đạo đức, Con người",
+      "shortTitle": "Chương VI: Văn hóa, Đạo đức & Con người",
+      "topicSummary": "Quan điểm về văn hóa (“Văn hóa soi đường cho quốc dân đi”), đạo đức cách mạng là gốc của người cách mạng (Trung với nước hiếu với dân; Cần, kiệm, liêm, chính, chí công vô tư; Thương yêu con người; Tinh thần quốc tế trong sáng), và chiến lược “trồng người”."
+    },
+    {
+      "id": "ch7",
+      "code": "Tổng hợp",
+      "title": "Chương VII: Câu hỏi Tổng hợp & Ôn tập toàn học phần",
+      "shortTitle": "Tổng hợp: Ôn tập toàn học phần",
+      "topicSummary": "Tổng hợp các luận điểm, tác phẩm kinh điển, mốc lịch sử, danh hiệu UNESCO vinh danh Hồ Chí Minh và vận dụng Tư tưởng Hồ Chí Minh trong giai đoạn hiện nay."
+    }
+  ]
+}
