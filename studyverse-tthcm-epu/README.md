@@ -1,3 +1,4 @@
+<!-- @copyright Bản quyền thuộc MH 2026 -->
 # STUDYVERSE — Tư tưởng Hồ Chí Minh (EPU 0101003505)
 
 Nền tảng học tập, luyện phản xạ, ôn tập ngắt quãng (SRS) và thi thử môn **Tư tưởng Hồ Chí Minh** dựa trên ngân hàng 301 câu hỏi trắc nghiệm gốc của Khoa Lý luận Chính trị và Pháp luật — Trường Đại học Điện lực (EPU).

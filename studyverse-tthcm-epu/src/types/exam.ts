@@ -1,3 +1,4 @@
+/** @copyright Bản quyền thuộc MH 2026 */
 export interface ExamConfig {
   subjectId: string;
   chapterIds: string[];

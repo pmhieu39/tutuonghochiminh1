@@ -1,3 +1,4 @@
+/** @copyright Bản quyền thuộc MH 2026 */
 export function getTodayDateKey(date: Date = new Date()): string {
   const y = date.getFullYear();
   const m = String(date.getMonth() + 1).padStart(2, '0');

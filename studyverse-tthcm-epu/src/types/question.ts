@@ -1,3 +1,4 @@
+/** @copyright Bản quyền thuộc MH 2026 */
 export type DifficultyLevel = 'easy' | 'medium' | 'hard';
 export type DifficultyCode = 'DE' | 'TB' | 'KH';
 

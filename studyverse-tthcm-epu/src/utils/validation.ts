@@ -1,3 +1,4 @@
+/** @copyright Bản quyền thuộc MH 2026 */
 import { Question } from '../types/question';
 
 export function validateQuestionImport(raw: unknown): Question[] {

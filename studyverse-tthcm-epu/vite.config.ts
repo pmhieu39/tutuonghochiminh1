@@ -1,3 +1,4 @@
+/** @copyright Bản quyền thuộc MH 2026 */
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 

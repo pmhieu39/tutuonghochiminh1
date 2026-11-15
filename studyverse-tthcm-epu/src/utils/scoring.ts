@@ -1,3 +1,4 @@
+/** @copyright Bản quyền thuộc MH 2026 */
 export function calculateExamScore(
   correctCount: number,
   totalQuestions: number,

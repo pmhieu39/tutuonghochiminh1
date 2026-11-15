@@ -1,3 +1,4 @@
+/** @copyright Bản quyền thuộc MH 2026 */
 const IDB_NAME = 'StudyverseEdTechDB';
 const IDB_STORE = 'keyval';
 
